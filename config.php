@@ -8,7 +8,7 @@ define('DB_USER', 'root');
 define('DB_PASS', 'admin');
 
 // Qwen/DashScope API Key (Get from: https://dashscope.console.aliyun.com/)
-define('DASHSCOPE_API_KEY', 'your-dashscope-api-key-here');
+define('DASHSCOPE_API_KEY', 'sk-433444444444444443333333333333333');
 
 // Qwen Model Selection
 define('QWEN_MODEL', 'qwen-turbo'); // Options: qwen-turbo, qwen-plus, qwen-max
